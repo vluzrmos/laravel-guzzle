@@ -1,6 +1,7 @@
 {
     "name": "vluzrmos/laravel-guzzle",
     "description": "",
+    "keywords": ["laravel", "guzzle", "laravel-guzzle"],
     "authors": [
         {
             "name": "Vagner do Carmo",
