@@ -1,0 +1,25 @@
+{
+    "name": "vluzrmos/laravel-guzzle",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vagner do Carmo",
+            "email": "vluzrmos@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "guzzlehttp/guzzle": "~4.0",
+        "illuminate/foundation": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Vluzrmos\\LaravelGuzzle\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
