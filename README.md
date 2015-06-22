@@ -1,6 +1,3 @@
-Laravel Guzzle
-==============
+# Abandoned package 
 
-<code>
-  composer require "vluzrmos/laravel-guzzle:dev-master"
-</code>
+I abandon that package, please consider to use [Guzzle](https://packagist.org/packages/guzzlehttp/guzzle). 
